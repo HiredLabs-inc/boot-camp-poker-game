@@ -660,6 +660,7 @@ def main_game_loop(current_table: object):
             pass
 
         print('Reseting...')
+        print('WARNING: Reset function not found - shutting down.')
     elif choice == 3:
         print('Quitting game...')
         print('обсось')
