@@ -1,16 +1,18 @@
 # Boot Camp Poker Game
 
-A simple, text-based game of Texas Hold'em against AI players.
+A simple, text-based game of Texas Hold'em against AI players that runs in the command line.
 
 ## Installation
 
-clone the repository
+Clone the repository
 
 ```bash
 git clone git@github.com:HiredLabs-inc/boot-camp-poker-game.git && cd boot-camp-poker-game/
 ```
 
 ## Usage
+
+Run the main script, then follow the on-screen prompts. 
 
 ```bash
 python3 main.py
