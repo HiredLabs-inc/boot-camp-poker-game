@@ -1,6 +1,6 @@
 # Boot Camp Poker Game
 
-A simple, text-based game of Texas Hold'em against AI players that runs in the command line.
+A simple, text-based game of Texas Hold'em against AI-like players that runs in the command line.
 
 ## Installation
 
