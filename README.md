@@ -1,4 +1,4 @@
-# Boot Camp Poker Game
+# Boot Camp Texas Hold'em Game
 
 A simple, Python only text-based game of Texas Hold'em against AI-like players that runs in the command line.
 
