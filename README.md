@@ -1,7 +1,7 @@
 
 # Boot Camp Texas Holdem
 
-A simple, Python only text-based game of Texas Hold'em against AI-like players that runs in the command line.
+A simple, Python text-based game of Texas Hold'em against AI-like players that runs in the command line.
 
 ## Installation
 
